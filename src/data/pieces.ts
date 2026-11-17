@@ -27,7 +27,7 @@ export const pieces: Piece[] = [
       "<i>The Narrows</i> as a piece is something I've wanted to write but never knew how to. Conceptually, I knew that my time at Zion National Park was something that I would love to write about, but putting it into practice, I never knew how to do it in a way that felt fresh, new, while also telling the story that I wanted to tell. I wanted to write about what I felt walking in the Narrows, in Zion, on the Riverwalk, and the ultimate awe and wonder that one could feel experiencing Zion for the first time.",
       "If I could say one thing about <i>The Narrows</i>, it would be this that it's a piece about renewal. I wrote it out of an experience I needed, an experience of resetting and forgetting about life for a little bit. This piece is for the wanderers who struggle to find rest, whether physical or mental, and for the dreamers, because I understand what it means to dream."
     ],
-    premiereNote: "<i>The Narrows</i> placed second at WMEA State Solo and Ensemble Composition Category in 2026.",
+    premiereNote: "<i>The Narrows</i> placed second at WMEA State Solo and Ensemble Composition Category in 2026 and premiered with the Central Washington University Percussion Ensemble under the direction of Joshua Gianola on November 18, 2026.",
   },
   {
     slug: "pastellimoncello",
